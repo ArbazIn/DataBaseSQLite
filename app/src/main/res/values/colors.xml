@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fc7e23</color>
+    <color name="colorPrimaryDark">#e7701a</color>
+    <color name="colorAccent">#e7701a</color>
+
+    <!--For Main Screen-->
+    <color name="btn_color">#d7d7d7</color>
+    <color name="btn_txt_color">#000000</color>
+    <color name="details_et_bg">#FFF</color>
+    <color name="details_tv_bg">#e1dede</color>
+
+    <!--For Details Screen-->
+    <color name="bg_row_details">#d7d7d7</color>
+
+
+</resources>

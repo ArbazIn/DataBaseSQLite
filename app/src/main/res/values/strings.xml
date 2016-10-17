@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SparshDemo</string>
+    <!--For Main Screen-->
+    <string name="btn_add_txt">Add</string>
+    <string name="btn_save_details_txt">Add</string>
+    <string name="btn_update_details_txt">Update</string>
+    <!--Field Name-->
+    <string name="m_f_name">Faliya name</string>
+    <string name="m_hoh">Head of the household</string>
+    <string name="m_ohh">Occupation of the head of the household</string>
+    <string name="m_ohh_tv">Occupation</string>
+    <string name="m_age">Age</string>
+    <string name="m_gender">Gender</string>
+    <string name="m_nofm">Names  of family members</string>
+</resources>
